@@ -1,4 +1,8 @@
 # AngularFrontend
+![Screenshot (103)](https://github.com/rahulhbroyal/Crud_Angular_springboot_mysql/assets/138965012/576d2aab-962a-427c-8f5b-b69f8fa8295d)
+![Screenshot (102)](https://github.com/rahulhbroyal/Crud_Angular_springboot_mysql/assets/138965012/c707bae5-926f-4311-b5a4-18a06c5a3e45)
+
+
 
 https://github.com/rahulhbroyal/Crud_Angular_springboot_mysql/assets/138965012/1fa613a4-76aa-48b1-82c2-4f73e312c9a9
 
