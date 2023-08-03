@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width:100%;
+    height: 40px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+/* body{
+    background-image: url(https://imageio.forbes.com/specials-images/imageserve/62f3d285fd08e819b4fe6374/Do-your-due-diligence-before-making-a-job-change-/960x0.jpg?format=jpg&width=960);
+} */
+@keyframes example {
+    0%   {background-image:url(https://wallpaperaccess.com/full/82831.jpg);}
+    25%  {background-image: url(https://cdni.iconscout.com/illustration/premium/thumb/employees-doing-discussion-on-break-time-3247206-2713246.png);}
+    50%  {background-image: url(https://img.freepik.com/free-vector/business-people-work-together-office-meeting-corporate-employees-talking-about-tasks-boss-sitting-with-laptop-young-secretary-smiling-standing-near-desk-with-report-documents_575670-872.jpg);}
+    100% {background-image: url(https://img.freepik.com/premium-vector/office-meeting-flat-color-vector-illustration_151150-10888.jpg);}
+  }
+  
+  /* The element to apply the animation to */
+  body{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://img.freepik.com/free-photo/guy-shows-document-girl-group-young-freelancers-office-have-conversation-working_146671-13569.jpg?w=996&t=st=1690998268~exp=1690998868~hmac=06e6da458cee270e1df4ba575adadd266e72d1855f346b131d9974daa90be99b);
+    animation-name: example;
+    animation-duration: 10s;
+  }

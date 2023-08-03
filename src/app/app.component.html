@@ -1,0 +1,26 @@
+<nav class="navbar navbar-expand-sm bg-primary navbar-dark" >
+    <ul class = "navbar-nav">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a class="navbar-brand" href="/">
+            <div class="logo-image">
+                  <img src="https://w7.pngwing.com/pngs/82/498/png-transparent-gold-and-black-letter-r-logo-robin-batman-nightwing-damian-wayne-logo-robin-superhero-trademark-dc-comics-thumbnail.png" class="img-fluid">
+            </div>
+      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        
+        <li class = "nav-item" class="home">
+            <a routerLink="create-employee" routerLinkActive="active" class="nav-link" >Add Employee</a>
+        </li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <li class = "nav-item" class="home">
+            <a routerLink="employees" routerLinkActive="active" class="nav-link" >Employee List</a>
+        </li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </ul>
+</nav>
+
+<!-- <h1 class="text-center"> {{title}} </h1> -->
+<div class = "container">
+    <router-outlet></router-outlet>
+</div>
+<footer class = "footer">
+    <div class = "container">
+        <span>All Rights Reserved 2023</span>
+    </div>
+</footer>

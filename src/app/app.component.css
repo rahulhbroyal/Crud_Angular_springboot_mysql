@@ -1,0 +1,14 @@
+.logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+.home:hover{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,23,121,1) 35%, rgba(0,212,255,1) 100%);
+    border-radius: 5%;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
